@@ -32,8 +32,9 @@ Computational Workflow:
   [3D Steady-State Temperature Field T(x,y,z)]
    - Axial decay profiles T(z), peak T_max, and safety margins
 
-Dependencies & RequirementsMATLAB: 
-R2023b or later (Parallel Computing Toolbox recommended).
+Dependencies & Requirements:
+
+MATLAB: R2023b or later (Parallel Computing Toolbox recommended).
 Monte Carlo Package: MCXLAB (CUDA-enabled GPU acceleration).
 GPU Hardware: NVIDIA CUDA-capable GPU (Compute Capability $\ge 6.0$).
 
